@@ -4,7 +4,7 @@ using Terraria.ID;
 using Terraria.ModLoader; //테라리아 모드관련 설정들 사용
 using Microsoft.Xna.Framework; //Microsoft사의 Xna Framework사용
 
-namespace oneShot.Weapons
+namespace oneShot.Weapons //oneshot 폴더 안에 있는 Weapon폴더 안에 있는 파일이란 것을 알려줌
 {
     public class onShot : ModItem //onshot을 모드 아이템으로 정의
     {
